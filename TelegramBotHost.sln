@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotHost.Android", "TelegramBotHost\TelegramBotHost.Android\TelegramBotHost.Android.csproj", "{E48CC539-4C90-4E27-876F-57CFFDCB4420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotHost", "TelegramBotHost\TelegramBotHost\TelegramBotHost.csproj", "{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E48CC539-4C90-4E27-876F-57CFFDCB4420}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A31A4D-8ACE-4900-9C18-DF6D29C8D3D1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A5DDD4-286A-4546-AE75-14BE69EE89C9}
+	EndGlobalSection
+EndGlobal
